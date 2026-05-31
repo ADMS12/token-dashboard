@@ -29,7 +29,7 @@ No `pip install`. No Node.js. No build step.
 ```bash
 git clone https://github.com/nateherkai/token-dashboard.git
 cd token-dashboard
-python3 cli.py dashboard
+python cli.py dashboard
 ```
 
 > On Windows, if `python3` isn't on your PATH, substitute `py -3` for `python3` in every command below.
